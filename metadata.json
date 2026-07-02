@@ -1,0 +1,6 @@
+{
+  "name": "JobConnect",
+  "description": "Local services marketplace connecting clients with nearby workers in Honduras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
